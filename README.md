@@ -10,7 +10,7 @@ The project is consists in three files:
 
 Some images were also provided to test the algorithms, and their results.
 
-Algorithms: 
+## Algorithms: 
 ### Contrast enhancement
 * **adjustIntensity**: alteration of the dynamic range of an image that allows linear histogram compression (or stretching) by introducing new lower and upper limits.
 ```python3
